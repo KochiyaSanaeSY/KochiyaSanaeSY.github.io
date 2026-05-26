@@ -1,6 +1,6 @@
 # baseURL: http://0.0.0.0:1313/
 baseURL: https://kochiyasanaesy.github.io/
-title: Documentation
+title: 水下机器人
 theme: hugo-book
 
 copyright: "This is a copyright placeholder"
